@@ -19,4 +19,13 @@
 <p>4. Lee un número por teclado que pida el precio de un producto (puede tener decimales) y calcule el precio final con IVA. El IVA sera una constante que sera del 21%.</p>
 
 <p>5. Muestra los números impares y pares del 1 al 100 (ambos incluidos). Usa un bucle while.</p>
+
 <p>6. Realiza el ejercicio anterior usando un ciclo for.</p>
+
+<p>7. Lee un número por teclado y comprueba que este numero es mayor o igual que cero, si no lo es lo volverá a pedir (do while), después muestra ese número por consola.</p>
+
+<p>8. Crea una aplicación por consola que nos pida un día de la semana y que nos diga si es un día laboral o no. Usa un switch para ello.</p>
+
+<p>9. Del texto, “La sonrisa sera la mejor arma contra la tristeza” Reemplaza todas las a del String anterior por una e, adicionalmente concatenar a esta frase una adicional que ustedes quieran incluir por consola y las muestre luego unidas.</p>
+
+<p>10. Realizar una aplicación de consola, que al ingresar una frase por teclado elimine los espacios que esta contenga.</p>
