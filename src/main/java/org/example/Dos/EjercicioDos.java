@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class EjercicioDos {
 	public static void main(String[] args) {
 
+		/*
+		* Al ejercicio anterior agregar entrada por consola de dos valores
+		* e indicar si son mayores, menores o iguales.
+		*/
 		Integer numeroUno = 16;
 		Integer numeroDos= 12;
 
