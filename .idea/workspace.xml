@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b2c9e2-9678-42e5-a173-218e56e927c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Siete/Siete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Cuatro/Cuatro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Dos/EjercicioDos.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Tres/Tres.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Uno/EjercicioUno.java" root0="SKIP_INSPECTION" />
   </component>
@@ -52,7 +55,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Cinco">
+  <component name="RunManager" selected="Application.Siete">
     <configuration name="Cinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Cinco.Cinco" />
       <module name="ejercicios" />
@@ -79,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjercicioDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Dos.EjercicioDos" />
+    <configuration name="Seis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Seis.Seis" />
       <module name="ejercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Dos.*" />
+          <option name="PATTERN" value="org.example.Seis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Siete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Siete.Siete" />
+      <module name="ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Siete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.Uno.EjercicioUno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Uno.EjercicioUno" />
-      <module name="ejercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Dos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Siete" />
+        <item itemvalue="Application.Seis" />
         <item itemvalue="Application.Cinco" />
         <item itemvalue="Application.Cuatro" />
         <item itemvalue="Application.Tres" />
-        <item itemvalue="Application.EjercicioDos" />
-        <item itemvalue="Application.org.example.Uno.EjercicioUno" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658248172630</updated>
-      <workItem from="1658248174368" duration="9861000" />
+      <workItem from="1658248174368" duration="11787000" />
     </task>
     <servers />
   </component>
