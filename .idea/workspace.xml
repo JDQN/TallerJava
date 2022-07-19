@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b2c9e2-9678-42e5-a173-218e56e927c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Siete/Siete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Diez/Diez.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Diez/Diez.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Nueve/Nueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Nueve/Nueve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ocho/Ocho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ocho/Ocho.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +28,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Cinco/Cinco.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Cuatro/Cuatro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Diez/Diez.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Dos/EjercicioDos.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Nueve/Nueve.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Ocho/Ocho.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Seis/Seis.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Tres/Tres.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Uno/EjercicioUno.java" root0="SKIP_INSPECTION" />
@@ -55,13 +59,13 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Siete">
-    <configuration name="Cinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Cinco.Cinco" />
+  <component name="RunManager" selected="Application.Diez">
+    <configuration name="Diez" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Diez.Diez" />
       <module name="ejercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Cinco.*" />
+          <option name="PATTERN" value="org.example.Diez.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Cuatro.Cuatro" />
+    <configuration name="Nueve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Nueve.Nueve" />
       <module name="ejercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Cuatro.*" />
+          <option name="PATTERN" value="org.example.Nueve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ocho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Ocho.Ocho" />
+      <module name="ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Ocho.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Tres.Tres" />
-      <module name="ejercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Tres.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Diez" />
+        <item itemvalue="Application.Nueve" />
+        <item itemvalue="Application.Ocho" />
         <item itemvalue="Application.Siete" />
         <item itemvalue="Application.Seis" />
-        <item itemvalue="Application.Cinco" />
-        <item itemvalue="Application.Cuatro" />
-        <item itemvalue="Application.Tres" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658248172630</updated>
-      <workItem from="1658248174368" duration="11787000" />
+      <workItem from="1658248174368" duration="18567000" />
     </task>
     <servers />
   </component>
