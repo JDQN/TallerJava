@@ -3,6 +3,7 @@ package org.example.Cinco;
 public class Cinco {
 
 	public static void main(String[] args) {
+
 		/*
 		* Muestra los números impares y pares del 1 al 100
 		* (ambos incluidos). Usa un bucle while.
@@ -10,7 +11,6 @@ public class Cinco {
 
 		Integer numerosImpares = 1;
 		Integer numeroPar = 2;
-
 
 		System.out.println("Numeros impares del 1 al 100");
 
