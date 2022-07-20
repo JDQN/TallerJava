@@ -48,7 +48,8 @@ PISTA: CONVINAR SWICHT Y ALGUNO DE LOS BUCLES.</p>
 
 
 <h2>☢ Nivel 2 Ejercicios 16, 17, 18 ☣</h2>
-<p>16. Haz una clase llamada Persona que siga las siguientes condiciones:
+
+<p>💥 16. Haz una clase llamada Persona que siga las siguientes condiciones:
 
 Sus atributos son: nombre, edad, DNI, sexo (H hombre, M mujer), peso y altura. No queremos que se accedan directamente a ellos. Piensa que modificador de acceso es el más adecuado, también su tipo. Si quieres añadir algún atributo puedes hacerlo.
 
@@ -82,7 +83,7 @@ Indicar para cada objeto si es mayor de edad.
 Por último, mostrar la información de cada objeto.</p>
 
 
-<p>Crearemos una superclase llamada Electrodoméstico con las siguientes características:
+<p>💥 17. Crearemos una superclase llamada Electrodoméstico con las siguientes características:
 Sus atributos son precio base, color, consumo energético (letras entre A y F) y peso. Indican que se podrán heredar.
 Por defecto, el color será blanco, el consumo energético será F, el precioBase es de 100 € y el peso de 5 kg. Usa constantes para ello.
 Los colores disponibles son blancos, negro, rojo, azul y gris. No importa si el nombre está en mayúsculas o en minúsculas.
@@ -136,7 +137,7 @@ Deberás mostrar el precio de cada clase, es decir, el precio de todas las telev
 Por ejemplo, si tenemos un Electrodomestico con un precio final de 300, una lavadora de 200 y una televisión de 500, el resultado final sera de 1000 (300+200+500) para electrodomésticos, 200 para lavadora y 500 para televisión.</p>
 
 
-<p>18. Crear una clase llamada Serie con las siguientes características:
+<p>💥 18. Crear una clase llamada Serie con las siguientes características:
 Sus atributos son título, numero de temporadas, entregado, género y creador.
 Por defecto, el número de temporadas es de 3 temporadas y entregado false. El resto de atributos serán valores por defecto según el tipo del atributo.
 Los constructores que se implementarán serán:
