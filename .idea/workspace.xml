@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b2c9e2-9678-42e5-a173-218e56e927c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Quince/Quince.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dieciseis/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dieciseis/Dieciseis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Dieciseis/Dieciseis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Cinco/Cinco.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Cuatro/Cuatro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Dieciseis/Persona.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Diez/Diez.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Doce/Doce.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Dos/EjercicioDos.java" root0="SKIP_INSPECTION" />
@@ -145,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658248172630</updated>
-      <workItem from="1658248174368" duration="28973000" />
+      <workItem from="1658248174368" duration="34354000" />
     </task>
     <servers />
   </component>
