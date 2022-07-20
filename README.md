@@ -29,3 +29,9 @@
 <p>9. Del texto, “La sonrisa sera la mejor arma contra la tristeza” Reemplaza todas las a del String anterior por una e, adicionalmente concatenar a esta frase una adicional que ustedes quieran incluir por consola y las muestre luego unidas.</p>
 
 <p>10. Realizar una aplicación de consola, que al ingresar una frase por teclado elimine los espacios que esta contenga.</p>
+
+<p>11. Realizar la construcción de un algoritmo que permita de acuerdo a una frase pasada por consola, indicar cual es la longitud de esta frase, adicionalmente cuantas vocales tiene de “a,e,i,o,u”.</p>
+
+<p>12. Pedir dos palabras por teclado, indicar si son iguales, sino son iguales mostrar sus diferencias.</p>
+
+<p>13. Realizar un algoritmo que permita consulta la fecha y hora actual en el formato (AAAA/MM/DD) (HH:MM:SS)</p>
