@@ -6,6 +6,7 @@ public class Diez {
 
 	public static void main(String[] args) {
 
+
 		/*
 		* Realizar una aplicación de consola, que al ingresar una
 		* frase por teclado elimine los espacios que esta contenga.
@@ -16,9 +17,10 @@ public class Diez {
 		System.out.println("Ingrese una frase: ");
 		String frase = sc.nextLine();
 
+		
 		String fraseSinEspacios = frase.replace(" ", "");
 		System.out.println("Frase sin espacios: " + fraseSinEspacios);
-		
+
 		sc.close();
 
 	}

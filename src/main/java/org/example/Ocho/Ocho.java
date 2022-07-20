@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ocho {
 
+
 	public static void main(String[] args) {
 
 		/*
