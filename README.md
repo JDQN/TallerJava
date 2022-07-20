@@ -47,7 +47,7 @@ EL SISTEMA SOLO VA A SALIR CUANDO SE DIGITE EL NUMERO 8, MIENTRAS SE DIGITE UNA 
 PISTA: CONVINAR SWICHT Y ALGUNO DE LOS BUCLES.</p>
 
 
-<h2>☢ Nivel 2 ☣</h2>
+<h2>☢ Nivel 2 ejercicios 16, 17, 18 ☣</h2>
 <p>16. Haz una clase llamada Persona que siga las siguientes condiciones:
 
 Sus atributos son: nombre, edad, DNI, sexo (H hombre, M mujer), peso y altura. No queremos que se accedan directamente a ellos. Piensa que modificador de acceso es el más adecuado, también su tipo. Si quieres añadir algún atributo puedes hacerlo.
