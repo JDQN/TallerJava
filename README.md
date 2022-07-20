@@ -35,3 +35,15 @@
 <p>12. Pedir dos palabras por teclado, indicar si son iguales, sino son iguales mostrar sus diferencias.</p>
 
 <p>13. Realizar un algoritmo que permita consulta la fecha y hora actual en el formato (AAAA/MM/DD) (HH:MM:SS)</p>
+
+<p>14. Crear un programa que pida un numero por teclado y que imprima por pantalla los números desde el numero introducido hasta 1000 con saldos de 2 en 2.</p>
+
+<p>15. Hacer un programa que muestre el siguiente menú de opciones
+****** GESTION CINEMATOGRÁFICA ********
+1-NUEVO ACTOR, 2-BUSCAR ACTOR, 3-ELIMINAR ACTOR, 4-MODIFICAR ACTOR
+5-VER TODOS LOS ACTORES, 6-VER PELICULAS DE LOS ACTORES,
+7-VER CATEGORIA DE LAS PELICULAS DE LOS ACTORES, 8-SALIR
+EL SISTEMA SOLO VA A SALIR CUANDO SE DIGITE EL NUMERO 8, MIENTRAS SE DIGITE UNA DE LAS CINCO OPCIONES DEBE SEGUIR MOSTRADO EL MENU Y SI EL USUARIO DIGITA UN NUMERO QUE NO ESTA EN EL MENU SE DEBE ARROJAR UN MENSAJE " OPCION INCORRECTO". Y MOSTRAR EL MENU NUEVAMENTE.
+PISTA: CONVINAR SWICHT Y ALGUNO DE LOS BUCLES.</p>
+
+
