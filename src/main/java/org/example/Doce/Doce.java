@@ -25,6 +25,5 @@ public class Doce {
 		}else{
 			System.out.println("Las palabras son diferentes");
 		}
-		
 	}
 }
