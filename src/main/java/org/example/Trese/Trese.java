@@ -12,7 +12,7 @@ public class Trese {
 	public static void main(String[] args) {
 		System.out.println("Escoje 1 para saver la fecha y hora actual y 2 para salir");
 		Scanner opcion = new Scanner(System.in);
-		int opciones = opcion.nextInt();
+		Integer opciones = opcion.nextInt();
 
 		switch (opciones){
 			case 1:

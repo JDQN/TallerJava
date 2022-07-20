@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b2c9e2-9678-42e5-a173-218e56e927c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Trese/Trese.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Trese/Trese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Trese/Trese.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,20 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Trese">
+  <component name="RunManager" selected="Application.Catorce">
+    <configuration name="Catorce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Catorce.Catorce" />
+      <module name="ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Catorce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Diez" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Diez.Diez" />
       <module name="ejercicios" />
@@ -80,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.Doce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Nueve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Nueve.Nueve" />
-      <module name="ejercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Nueve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Catorce" />
         <item itemvalue="Application.Trese" />
         <item itemvalue="Application.Doce" />
         <item itemvalue="Application.Once" />
         <item itemvalue="Application.Diez" />
-        <item itemvalue="Application.Nueve" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658248172630</updated>
-      <workItem from="1658248174368" duration="25841000" />
+      <workItem from="1658248174368" duration="27221000" />
     </task>
     <servers />
   </component>
